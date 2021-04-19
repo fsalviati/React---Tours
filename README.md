@@ -1,10 +1,6 @@
 # Tours Page - React
 * A template page containing Tours Available for booking. Built using React JS.
 
-## Deployed at:
-https://fsalviati.github.io/portfolio_page/
-<br />
-
 ## Screenshot
 
 ![Screenshot](screenshot.png)
